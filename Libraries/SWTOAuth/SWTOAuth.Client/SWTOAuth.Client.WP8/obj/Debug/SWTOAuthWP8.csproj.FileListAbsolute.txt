@@ -1,0 +1,7 @@
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuthW8\obj\Debug\Controls\AccessControlServiceSignIn.g.cs
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuthW8\obj\Debug\SL.Phone.Federation.g.resources
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuthW8\obj\Debug\SL.Phone.Federation.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuthW8\obj\Debug\SL.Phone.Federation.pdb
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuthW8\Bin\Debug\SL.Phone.Federation.XML
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuthW8\Bin\Debug\SL.Phone.Federation.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuthW8\Bin\Debug\SL.Phone.Federation.pdb

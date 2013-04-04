@@ -1,0 +1,6 @@
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\Bin\Release\SL.Phone.Federation.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\Bin\Release\SL.Phone.Federation.pdb
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Release\Controls\AccessControlServiceSignIn.g.cs
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Release\SL.Phone.Federation.g.resources
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Release\SL.Phone.Federation.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Release\SL.Phone.Federation.pdb

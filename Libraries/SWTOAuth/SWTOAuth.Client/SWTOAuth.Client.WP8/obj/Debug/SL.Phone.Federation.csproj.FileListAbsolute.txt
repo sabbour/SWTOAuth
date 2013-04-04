@@ -1,0 +1,15 @@
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\Bin\Debug\SL.Phone.Federation.XML
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\Bin\Debug\SL.Phone.Federation.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\Bin\Debug\SL.Phone.Federation.pdb
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\obj\Debug\SL.Phone.Federation.csprojResolveAssemblyReference.cache
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\obj\Debug\Controls\AccessControlServiceSignIn.g.cs
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\obj\Debug\SL.Phone.Federation.g.resources
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\obj\Debug\SL.Phone.Federation.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\ACSSamples\Webservice\Acs2WindowsPhoneSample\SL.Phone.Federation\obj\Debug\SL.Phone.Federation.pdb
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\Bin\Debug\SL.Phone.Federation.XML
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\Bin\Debug\SL.Phone.Federation.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\Bin\Debug\SL.Phone.Federation.pdb
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Debug\Controls\AccessControlServiceSignIn.g.cs
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Debug\SL.Phone.Federation.g.resources
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Debug\SL.Phone.Federation.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SL.Phone.Federation\obj\Debug\SL.Phone.Federation.pdb

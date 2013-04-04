@@ -1,0 +1,9 @@
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\obj\Release\SimpleWebTokenOAuth.csprojResolveAssemblyReference.cache
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\bin\Release\SimpleWebTokenOAuth.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\bin\Release\SimpleWebTokenOAuth.pdb
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\obj\Release\SimpleWebTokenOAuth.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\obj\Release\SimpleWebTokenOAuth.pdb
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\bin\Release\System.Web.Http.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\bin\Release\System.Web.Http.xml
+C:\Users\v-ahsab\documents\visual studio 2012\Projects\Give4Afrika\SimpleWebTokenOAuth\bin\Release\System.Net.Http.Formatting.xml

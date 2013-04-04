@@ -1,0 +1,15 @@
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\obj\Debug\SWTOAuth.Client.WP8.csprojResolveAssemblyReference.cache
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\obj\Debug\Controls\AccessControlServiceSignIn.g.cs
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\obj\Debug\Controls\SignInPage.g.cs
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\obj\Debug\SWTOAuth.Client.WP8.g.resources
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\SWTOAuth.Client.WP8.xml
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\SWTOAuth.Client.WP8.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\SWTOAuth.Client.WP8.pdb
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\SWTOAuth.Client.Utilities.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\System.Net.Http.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\SWTOAuth.Client.Utilities.pdb
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\System.Net.Http.xml
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\obj\Debug\SWTOAuth.Client.WP8.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.WP8\obj\Debug\SWTOAuth.Client.WP8.pdb

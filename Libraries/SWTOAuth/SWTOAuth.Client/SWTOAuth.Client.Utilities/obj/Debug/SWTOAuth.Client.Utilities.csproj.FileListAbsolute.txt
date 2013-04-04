@@ -1,0 +1,13 @@
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth.Client.Utilities\obj\Debug\SWTOAuth.Client.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\SWTOAuth.Client.Utilities.dll.config
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\SWTOAuth.Client.Utilities.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\SWTOAuth.Client.Utilities.pdb
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\System.Net.Http.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\System.Net.Http.xml
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\obj\Debug\SWTOAuth.Client.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\obj\Debug\SWTOAuth.Client.Utilities.dll
+C:\Users\v-ahsab\Documents\Visual Studio 2012\Projects\Demos\OAuthWebAPIDemo\Libraries\SWTOAuth\SWTOAuth.Client\SWTOAuth.Client.Utilities\obj\Debug\SWTOAuth.Client.Utilities.pdb

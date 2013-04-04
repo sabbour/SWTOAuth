@@ -1,0 +1,10 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="SampleWP8" EntryPointType="SampleWP8.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="SampleWP8" Source="SampleWP8.dll" />
+    <AssemblyPart x:Name="SWTOAuth.Client.Utilities" Source="SWTOAuth.Client.Utilities.dll" />
+    <AssemblyPart x:Name="SWTOAuth.Client.WP8" Source="SWTOAuth.Client.WP8.dll" />
+    <AssemblyPart x:Name="System.Net.Http" Source="System.Net.Http.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Extensions" Source="System.Net.Http.Extensions.dll" />
+    <AssemblyPart x:Name="System.Net.Http.Primitives" Source="System.Net.Http.Primitives.dll" />
+  </Deployment.Parts>
+</Deployment>
